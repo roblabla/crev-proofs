@@ -27,6 +27,9 @@ nox
 pnkfelix
 sfackler
 withoutboats
+roblabla
+thog
+orycterope
 
 github:rust-lang:libs
 github:rust-lang-nursery:log-owners
